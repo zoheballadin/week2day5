@@ -1,0 +1,10 @@
+Week 2 Day 5 Notes
+
+This is a sample text file demonstrating basic text storage.
+Text files are fundamental for:
+- Documentation
+- Configuration
+- Data storage
+- Notes and comments
+
+Simple, readable, and universally supported.
